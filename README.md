@@ -1,1 +1,1 @@
-# discord-redirectsite
+# discord.nodr.us
